@@ -1,0 +1,14 @@
+layout_spectrum: 0.912766
+color:
+  saturation: 0.7780819
+  brandStrength: 0.8085107
+  lightness: 0.1510638
+  brandColors:
+    - '#0E0C07'
+    - '#E8F3F2'
+    - '#644316'
+    - '#BCA465'
+    - '#03BDEA'
+  rhythmicContrast: 0.7893617
+typography_spectrum: 0.1787234
+name: Hour Cycles
