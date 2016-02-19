@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hour Cycles]]></title>
         <description><![CDATA[Hour Cycles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hour-cycles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 23:17:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 23:18:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hour-cycles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Take one last look at the place that you are leaving.]]></title>
+            <description><![CDATA[<article><h1>Take one last look at the place that you are leaving.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623465f594228b18723ec2a2494cc1b88f846b84.png"></article>]]></description>
+            <link>https://thegrid.ai/hour-cycles/take-one-last-look-at-the-place-that-you-are-leaving/index.html</link>
+            <guid isPermaLink="false">4f6fa2fd-c4a3-4ce6-8fba-39a9d9dd03ee</guid>
+            <pubDate>Fri, 19 Feb 2016 23:17:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Find one person today to call out of the blue.]]></title>
             <description><![CDATA[<article><h1>Find one person today to call out of the blue.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a127459d02a4ab2f24a627ff80f9a131df0c971f.png"></article>]]></description>
-            <link>undefinedfind-one-person-today-to-call-out-of-the-blue/index.html</link>
+            <link>https://thegrid.ai/hour-cycles/find-one-person-today-to-call-out-of-the-blue/index.html</link>
             <guid isPermaLink="false">9680b16f-9d39-4e90-9fd5-76415e2f5b1a</guid>
             <pubDate>Fri, 19 Feb 2016 23:17:30 GMT</pubDate>
         </item>
