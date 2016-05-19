@@ -4,14 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.7446808
 color:
-  saturation: 0.9404255
+  saturation: 0.7526882
   brandStrength: 0.793617
   lightness: 0.5914894
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#C6E0F1'
     - '#9BBC65'
     - '#DFBE9A'
-  rhythmicContrast: 0.5744681
-typography_spectrum: 0.7446808
+  rhythmicContrast: 0.2132616
 layout_spectrum: 0.1595745
 name: Hour Cycles
